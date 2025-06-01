@@ -1,17 +1,9 @@
-# Pricila
+# Meus filmes favoritos 
+* Nausicaä of the Valley of the wind 
+* Perfect Days 
+* Past Lives 
+* About Time
+* Eternal Sunshine of the Spotless Mind
+>Por algns motivos esse filme me cativou, Perfect Days é um abraço, na minha opinião um filme feito com um olhar muito delicado, preciosso de se assitir... * [treiler](https://youtu.be/QzZBbX5A1FA?si=VXrNFBdtlOcGC9qy) [...](https://youtu.be/F24IoeMlM3Y?si=mdUh2qu0GRFains6)
 
-Pretendo mergulhar na área tec. a partir desse momento para um futuro toptec
-
-## hobbies 
-
-- Filmes
-- jogos
-- jogos manuais 
-- leitura 
-
-## Musica favorita 
-
-[escute](https://youtu.be/GTWqwSNQCcg?si=pPF4jnRtnCdCaJLY) aqui 
----
-
-<p> <img src="https://i.pinimg.com/736x/43/00/47/430047e78aa8ab64da1aadf4de9046ee.jpg" width="300"></p> 
+![](image.png)
